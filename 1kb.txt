@@ -1,0 +1,51 @@
+{
+    "countries": [
+        {
+            "name": "Afghanistan",
+            "isoCode": "AF"
+        },
+        {
+            "name": "Albania",
+            "isoCode": "AL"
+        },
+        {
+            "name": "Algeria",
+            "isoCode": "DZ"
+        },
+        {
+            "name": "American Samoa",
+            "isoCode": "AS"
+        },
+        {
+            "name": "Andorra",
+            "isoCode": "AD"
+        },
+        {
+            "name": "Angola",
+            "isoCode": "AO
+        },
+        {
+            "name": "Antigua and Barbuda",
+            "isoCode": "AG"
+        },
+        {
+            "name": "Argentina",
+            "isoCode": "AR"
+        },
+        {
+            "name": "Armenia",
+            "isoCode": "AM"
+        },
+     
+            "name": "Bahamas",
+            "isoCode": "BS"
+        },
+        {
+        {
+            "name": "Cuba",
+            "isoCode": "CU"
+        },
+        },
+        {
+            "name": "Northern Mariana Islands",
+            "isoCode": "MP"
